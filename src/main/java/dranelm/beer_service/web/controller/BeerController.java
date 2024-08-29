@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.UUID;
 
-@RequestMapping("/api/v1/beer")
 @RestController
+@RequestMapping("/api/v1/beer")
 public class BeerController {
 
     @GetMapping("/{beerId}")
