@@ -1,6 +1,5 @@
 package dranelm.beer_service.domain;
 
-import dranelm.beer_service.web.model.BeerStyleEnum;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
